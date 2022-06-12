@@ -1,0 +1,45 @@
+*{
+    box-sizing: content-box;
+
+}
+.post{
+   
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 20px;
+   
+
+    
+    
+}
+img{
+    width: 150px;
+    max-height: 110px;
+    object-fit: contain;
+    
+
+}
+
+
+
+
+
+
+#alif{
+  margin: 10px;
+  margin-left: 40px;
+}
+
+#ims{
+    width: 20%;
+    height: 20%;
+}
+
+.single-producty-info{
+
+    margin: 10px;
+    padding: 2px;
+    align-items: center;
+    
+}
